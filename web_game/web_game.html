@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TEST WebRTC Game Lobby</title>
+</head>
+<body>
+
+    <!-- Setup Screen -->
+    <div id="setup-screen">
+        <h1>Game Lobby</h1>
+
+        <label>Your Name:</label>
+        <input type="text" id="player-name-input" placeholder="Enter your name">
+        
+        <hr>
+
+
+        <h3>Host a Game</h3>
+        <button id="create-room-btn">Create Room</button>
+
+        <hr>
+
+
+        <h3>Join a Game</h3>
+        <input type="text" id="room-code-input" placeholder="Enter Room Code">
+        <button id="join-room-btn">Join Room</button>
+    </div>
+
+
+    <!-- Active Room Screen -->
+    <div id="room-screen" style="display: none;">
+        <h2>Room: <span id="room-code-display"></span></h2>
+
+        <hr>
+        
+        <!-- Player List -->
+        <ul id="player-list"></ul>
+
+        <hr>
+
+        <!-- Chat Section  -->
+         <h3>Lobby Chat</h3>
+         <div id="chat-box" style="height: 150px; border: 1px solid #ccc; overflow-y: scroll; padding: 5px; margin-bottom: 10px;">
+            <!-- Messages here..... -->
+         </div>
+         <input type="text" id="chat-input" placeholder="Type a message...">
+         <button id="send-chat-btn">Send</button>
+
+         <hr>
+
+        <button id="leave-room-btn">Leave Room</button>
+    </div>
+    <script src="https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js"></script>
+    <script src="web_game_script.js"></script>
+</body>
+</html>

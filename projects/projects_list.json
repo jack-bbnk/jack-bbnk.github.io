@@ -11,5 +11,11 @@
     "title": "Temple of Wishes",
     "image": "images/temple_of_wishes_card.png",
     "site": "https://pigeon-s.itch.io/temple-of-wishes"
+  },
+  {
+    "id": "web_game",
+    "title": "WIP Web Game",
+    "image": "images/work_in_progress_card.png",
+    "site": "web_game/web_game.html"
   }
 ]
