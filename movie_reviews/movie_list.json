@@ -1,5 +1,10 @@
 [
   {
+    "id": "pitt_1",
+    "title": "The Pitt Season 1",
+    "image": "images/movies/pitt_season_1_card.png"
+  },
+  {
     "id": "bluff",
     "title": "The Bluff",
     "image": "images/movies/bluff_card.png"
