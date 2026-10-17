@@ -20,6 +20,11 @@
     "image": "images/games/reVillage/reVillage_card.png"
   },
   {
+    "id": "feFw",
+    "title": "Fire Emblem: Fortune's Weave",
+    "image": "images/games/feFw/feFw_card.png"
+  },
+  {
     "id": "temple_of_wishes",
     "title": "Temple of Wishes",
     "image": "images/temple_of_wishes_card.png"

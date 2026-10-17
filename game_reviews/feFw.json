@@ -1,0 +1,33 @@
+{
+  "id": "feFw",
+  "title": "Fire Emblem: Fortune's Weave",
+  "subtitle": "we are so back",
+  "scoreWord": "Fantastic",
+  "songTitle": "Moonlight Visions",
+  "scoreNumber": 89,
+  "summary": {
+    "good": [
+      "Impeccable voice acting",
+      "Great sound design and stellar soundtrack",
+      "Crit animations are GOOD!",
+      "A really interesting plotline",
+      "Engaging for its entire, plentiful runtime",
+      "Character Models are beautiful"
+    ],
+    "bad": [
+      "Visuals in the world map are a little muddy, especially for a Switch 2 game (still couldn't be as bad as Three Houses though bless...)",
+      "Some levels have more frustrating than fun gimmicks",
+      "Free Time gets dull relatively quickly"
+    ],
+    "ugly": [
+      "Story execution greatly weakened by plot holes and cut content"
+    ]
+  },
+  "stars": [
+    { "category": "Gameplay", "rating": 4.0 },
+    { "category": "Story", "rating": 4.0 },
+    { "category": "Music", "rating": 4.5 },
+    { "category": "Visuals", "rating": 4.0 },
+    { "category": "Playability", "rating": 5.0 }
+  ]
+}
